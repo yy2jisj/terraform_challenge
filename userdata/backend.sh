@@ -20,7 +20,7 @@ const port = 3000;
 const metadataHost = "169.254.169.254";
 
 const catalogItems = [
-  { id: 1, name: "VPC", description: "Virtual Private Cloud" }
+  { id: 1, name: "VPC", description: "Virtual Private Cloud" },
   { id: 2, service: "ALB", description: "Application Load Balancer" },
   { id: 3, service: "ASG", description: "Auto Scaling Group" },
   { id: 4, service: "IAM", description: "Identity and Access Management" },
